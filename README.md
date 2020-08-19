@@ -30,5 +30,7 @@ you might find that it already has a system for installing dependencies and tool
 ## How do I use pytest?
 
     pytest
+    
+How do I use pytest in Visual Studio Code?
 
 ## What are the alternatives?
