@@ -34,3 +34,7 @@ you might find that it already has a system for installing dependencies and tool
 How do I use pytest in Visual Studio Code?
 
 ## What are the alternatives?
+
+`unittest`, `hypothesis`, `doctest`, and the older `nosetest`.
+
+Also, may be embedded in a larger scope framework like `tox`
