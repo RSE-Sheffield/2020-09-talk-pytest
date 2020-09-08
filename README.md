@@ -5,7 +5,8 @@ A ten minute talk on pytest. With time for questions.
 Audience: people who have done at least a small amount of Python coding.
 I do not expect you to have written tests or used testing tools.
 
-You can test your Python code with `pytest`, one of the leading systems for testing Python code.
+You can test your Python code with `pytest`,
+one of the leading systems for testing Python code.
 Here I will gently introduce you to `pytest` with practical examples.
 As `pytest` themselves put it:
 
@@ -29,7 +30,8 @@ With plain old virtualenv:
     
 In a project that has already been setup with
 some basic level of package management,
-you might find that it already has a system for installing dependencies and tools.
+you might find that it already has
+a system for installing dependencies and tools.
 
 ## Why should I use pytest?
 
@@ -45,4 +47,4 @@ What is `pytest --lf`?
 
 `unittest`, `hypothesis`, `doctest`, and the older `nosetest`.
 
-Also, may be embedded in a larger scope framework like `tox`
+Also, may be embedded in a larger scope framework like `tox`.
