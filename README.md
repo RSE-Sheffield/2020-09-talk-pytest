@@ -35,16 +35,23 @@ a system for installing dependencies and tools.
 
 ## Why should I use pytest?
 
+Testing increases confidence
+(in your estimate of software quality).
+`pytest` makes testing _systematic_.
+
+Can be incorporate into an automatic testing system,
+on every push.
+Can be used as a gated check for release: continuous
+integration.
+
 ## How do I use pytest?
 
     pytest
     
-How do I use pytest in Visual Studio Code?
-
-What is `pytest --lf`?
-
 ## What are the alternatives?
 
-`unittest`, `hypothesis`, `doctest`, and the older `nosetest`.
+`unittest`
+
+, `hypothesis`, `doctest`, and the older `nosetest`.
 
 Also, may be embedded in a larger scope framework like `tox`.
